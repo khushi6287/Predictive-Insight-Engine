@@ -118,8 +118,4 @@ Multiple Linear Regression performed best because:
 - It reduced prediction error.
 - It maintained a balance between bias and variance.
 
----
 
-├── screenshots/
-├── README.md
-└── report.pdf
